@@ -206,7 +206,7 @@ Clone the repository:
 
 ```bash
 
-git clone <repository-link>
+git clone <https://github.com/achummuah/ai-decision-intelligence-dashboard.git>
 
 cd team\_biztrack
 
