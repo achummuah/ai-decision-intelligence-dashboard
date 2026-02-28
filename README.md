@@ -458,11 +458,11 @@ This project is licensed under the MIT License.
 
 
 
-🎥 Demo Video
+🎥 For demo video and screenshots, see:
 
 
 
-https://drive.google.com/file/d/17hRPHFcWsvNW2FM1a-0T8eX5If9rw1U4/view?usp=sharing
+https://drive.google.com/drive/folders/16aTxCRzkiiFbsfmDT0tc6rcoSjZJJ6ir?usp=drive_link
 
 
 
